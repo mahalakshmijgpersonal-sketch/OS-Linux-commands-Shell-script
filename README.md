@@ -979,6 +979,9 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 
+
+
+
 $ ./argshift.sh 1 2 3
  
 cat argshift.sh

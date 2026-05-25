@@ -870,6 +870,8 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+<img width="460" height="454" alt="image" src="https://github.com/user-attachments/assets/2b4a7909-842c-4ca3-a04c-58a552fdba03" />
+
 
 cat fornested1.sh 
 ```bash
@@ -1085,7 +1087,7 @@ else
 fi
 ```
 ## OUTPUT 
-image-77.png
+
 
 
 # RESULT:

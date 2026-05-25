@@ -909,6 +909,8 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+<img width="501" height="299" alt="image" src="https://github.com/user-attachments/assets/0a005c2e-fa3f-4497-be32-4c7bcecfe411" />
+
 
 $ chmod 755 forbreak.sh
  
@@ -934,6 +936,7 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
+
  
 cat exread.sh 
 ```bash

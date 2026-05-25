@@ -1033,6 +1033,9 @@ fi
 ```
 ## OUTPUT 
 
+<img width="635" height="545" alt="image" src="https://github.com/user-attachments/assets/5e27ac92-7fad-4c3a-8afb-36a16d716f9d" />
+
+
 
 
 # RESULT:

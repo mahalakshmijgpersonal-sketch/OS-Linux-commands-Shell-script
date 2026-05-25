@@ -945,6 +945,8 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
+<img width="393" height="276" alt="image" src="https://github.com/user-attachments/assets/8692efa3-5a8e-4f12-b03d-e159dc6b1a1d" />
+
 
  
 cat argshift.sh

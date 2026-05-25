@@ -912,31 +912,6 @@ echo "The for loop is completed“
 <img width="501" height="299" alt="image" src="https://github.com/user-attachments/assets/0a005c2e-fa3f-4497-be32-4c7bcecfe411" />
 
 
-$ chmod 755 forbreak.sh
- 
-$ ./forbreak.sh 
- 
-cat forbreak.sh 
-```bash
-#!/bin/bash
-# breaking out of a for loop
-for var1 in 1 2 3 4 5
-do
-if [ $var1 -eq 3 ]
-then
-continue
-fi
-echo "Iteration number: $var1"
-done
-echo "The for loop is completed“
-```
-
- 
-$ chmod 755 forcontinue.sh
- 
-$ ./forcontinue.sh 
-## OUTPUT
-
  
 cat exread.sh 
 ```bash
@@ -951,21 +926,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
-
-
- cat exread1.sh
-```bash
-#!/bin/bash
-# testing the read command
-read -p "Enter your name: " name
-echo "Hello $name, welcome to my program. “
-``` 
-$ chmod 755 exread1.sh 
-
-## OUTPUT
-
-
-
+<img width="434" height="251" alt="image" src="https://github.com/user-attachments/assets/b448f82f-2975-413f-ae48-7a6b511f7323" />
 $ ./exread1.sh 
  
 cat funcex.sh
@@ -984,10 +945,6 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
- ./funcex.sh 
-
- 
- ./funcex.sh 1 2
 
  
 cat argshift.sh
@@ -1001,7 +958,7 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
-$ ./argshift.sh 1 2 3
+
  
  cat argshift1.sh
 ```bash
@@ -1034,36 +991,7 @@ set +x
  ./argshift.sh 1 2 3
  
  
-cat > nc.awk
-```bash
-BEGIN{}
-{
-print len=length($0),"\t",$0 
-wordcount+=NF
-chrcnt+=len
-}
-END {
-print "total characters",chrcnt 
-print "Number of Lines are",NR
-print "No of Words count:",wordcount
-}
- ```
-cat>data.dat
-```bash
-bcdfghj
-abcdfghj
-bcdfghj
-ebcdfghj
-bcdfghj
-ibcdfghj
-bcdfghj
-obcdfghj
-bcdfghj
-ubcdfghj
-```
-awk -f nc.awk data.dat
-## OUTPUT 
- 
+
 cat > palindrome.sh
 ```bash
 #num=545

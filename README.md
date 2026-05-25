@@ -999,6 +999,9 @@ set +x
 ```
 ## OUTPUT
 
+<img width="360" height="495" alt="image" src="https://github.com/user-attachments/assets/d8057eac-82df-4619-a473-314ae9020479" />
+
+
  ./argshift.sh 1 2 3
  
  

@@ -979,6 +979,9 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 
+<img width="383" height="291" alt="image" src="https://github.com/user-attachments/assets/72abfbb2-ea80-44aa-b066-9ef9f948d2b7" />
+
+
 
 
 
